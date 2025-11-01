@@ -53,5 +53,3 @@ O projeto evolui de um jogo básico com **comparação simples de cartas** até 
 - Console para interação com o usuário
 
 ---
-
-## 📂 Estrutura do Projeto
