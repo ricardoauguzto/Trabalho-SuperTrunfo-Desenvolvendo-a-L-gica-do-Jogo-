@@ -52,4 +52,3 @@ O projeto evolui de um jogo básico com **comparação simples de cartas** até 
 - Linguagem C
 - Console para interação com o usuário
 
----
